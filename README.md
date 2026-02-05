@@ -1,4 +1,4 @@
-# Trader Performance vs Market Sentiment — Primetrade.ai Assignment
+# Trader Performance vs Market Sentiment 
 
 ## 📌 Objective
 
